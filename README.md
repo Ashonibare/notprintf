@@ -3,7 +3,7 @@ ALX Printf Group Project, created and contributed by Victor Animasahun and Sarah
 
 It's the first year group work we have worked on. Printf replicates the C standard library.
 
-What you should learn from this project:
+What we learned from this project:
 
 * How to use git in a team setting
 * Applying variadic functions to a big project
@@ -32,7 +32,7 @@ along with regular characters
 
 # Tasks
 
-These are all the tasks of this project, the ones that are completed link to the corresponding files.
+These are all the tasks of this project, those that are completed link to the corresponding files.
 
 ### [0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life](./_printf.c)
 * Write a function that produces output according to format.
